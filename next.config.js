@@ -8,6 +8,10 @@ const nextConfig = {
       },
     ],
   },
+  // Not needed in Nextjs 14
+  // experimental: {
+  //   serverActions: true,
+  // },
 };
 
 module.exports = nextConfig;

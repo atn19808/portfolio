@@ -1,7 +1,7 @@
 "use client";
 
-import React, { useEffect } from "react";
-import SectionHeading from "./Section-Heading";
+import React from "react";
+import SectionHeading from "./section-heading";
 import { motion } from "framer-motion";
 import { useSectionInview } from "@/lib/hooks";
 
